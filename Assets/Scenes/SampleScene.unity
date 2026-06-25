@@ -728,7 +728,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &326460067
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4804,7 +4804,7 @@ MonoBehaviour:
   leverSound: {fileID: 8300000, guid: 5b99875e357b04772b9b3ca0e1f568b9, type: 3}
   winSound: {fileID: 8300000, guid: 3b97893e580e44ce3bd562453169b052, type: 3}
   jackpotSound: {fileID: 8300000, guid: f19fd14f5b6ed487e8d3967fb5a33c84, type: 3}
-  tryAgain: {fileID: 8300000, guid: 15bbee036355a41d2b6bb5013cd5db85, type: 3}
+  loseSound: {fileID: 8300000, guid: 15bbee036355a41d2b6bb5013cd5db85, type: 3}
 --- !u!82 &2025244240
 AudioSource:
   m_ObjectHideFlags: 0
